@@ -83,8 +83,8 @@ def getSts():
     # Output list of dicts to CSV in current working directory
     df = pd.DataFrame(stDataList)
     cwd = os.getcwd()
-    df.to_csv(cwd + '\\stContactList.csv', index=False)
-    print(f'Done. Output sent to {cwd}\\stContactList.csv')
+    df.to_csv(cwd + '/stContactList.csv', index=False)
+    print(f'Done. Output sent to {cwd}/stContactList.csv')
 
 if __name__ == '__main__':
     getSts()
