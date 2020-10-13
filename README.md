@@ -22,7 +22,7 @@ Creative Commons / Public domain: CC0
 
 
 
-[View the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication deed here](https://creativecommons.org/publicdomain/zero/1.0/). | [View Legal Code](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
+[View CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/) | [View Legal Code](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
 
 
 
