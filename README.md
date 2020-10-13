@@ -1,5 +1,5 @@
 # stContactList
-Get list of student contacts
+Generate a csv file containing student contact information from a university departmental website.
 
 ## Usage
 - Download Python script
@@ -19,8 +19,6 @@ The script is pretty simple, but if you represent a union or similar organizatio
 ## License
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg">
 Creative Commons / Public domain: CC0
-
-
 
 [View CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/) | [View Legal Code](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
 
