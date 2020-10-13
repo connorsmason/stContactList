@@ -1,5 +1,5 @@
 # stContactList
-Get list of student contacts
+Generate a csv file containing student contact information from a university departmental website.
 
 ## Usage
 - Download Python script
